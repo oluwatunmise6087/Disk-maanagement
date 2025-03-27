@@ -1,4 +1,8 @@
 # Disk management
+1. Created a new volume (xvdf)
+2. Partition it (xvdf1)
+3. Format the partition
+4. mount the partition
 
 ## add images here
 
